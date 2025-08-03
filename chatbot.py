@@ -1,8 +1,8 @@
+import nltk
 import os
 import csv
 import json
 import datetime
-import nltk
 import ssl
 import streamlit as st
 import random
